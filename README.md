@@ -29,3 +29,6 @@ FontAwesome
 
 Bootstrap
 ### npm install react-bootstrap bootstrap@5.1.3
+
+mysql
+### Configurar usuário, senha e base de dados no arquivo conexao.php
